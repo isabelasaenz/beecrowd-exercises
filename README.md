@@ -4,5 +4,6 @@ Solutions to the exercises from [Beecrowd](https://www.beecrowd.com.br/) and [Le
 
 ## Table of Contents
 
-
+- [Beecrowd](https://github.com/isabelasaenz/programming-problems/tree/main/Beecrowd)
+- [LeetCode](https://github.com/isabelasaenz/programming-problems/tree/main/LeetCode)
 
